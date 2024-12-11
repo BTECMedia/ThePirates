@@ -8,3 +8,9 @@ _"I changed my mind up like it's origami!"_
 
 ## Follow our socials!
 [Noah's GitHub](https://github.com/TrisoPcoh). 
+
+## Find out more about The Pirates!
+Click [here](https://wearethepirates.pcoh.uk/readme) to find out more.
+
+### For my school's IT department
+This website is safe :) 
