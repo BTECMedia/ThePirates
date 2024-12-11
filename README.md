@@ -1,5 +1,5 @@
 # A little bit of a backstory about The Pirates.
-I was asked by my Media Studies teacher to create a band, with:
+I was asked by my Media Studies teacher to create a band and also create a:
 - A promotional poster.
 - A CD cover.
 - Band logo.
