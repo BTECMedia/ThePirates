@@ -3,6 +3,8 @@ Hey there, welcome to the official website for The Pirates, a made up band for m
 
 _"I changed my mind up like it's origami!"_
 
+_"This website does not condone piracy!"_
+
 ## Songs!
 [Windows CE (Crap Edition)](https://wearethepirates.pcoh.uk/windowsce).
 
@@ -10,7 +12,4 @@ _"I changed my mind up like it's origami!"_
 [Noah's GitHub](https://github.com/TrisoPcoh). 
 
 ## Find out more about The Pirates!
-Click [here](https://wearethepirates.pcoh.uk/readme) to find out more.
-
-### For my school's IT department
-This website is safe :) 
+Click [here](https://wearethepirates.pcoh.uk/README) to find out more.
