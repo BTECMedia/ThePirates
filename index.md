@@ -12,4 +12,4 @@ _"This website does not condone piracy!"_
 [Noah's GitHub](https://github.com/TrisoPcoh). 
 
 ## Find out more about The Pirates!
-Click [here](https://wearethepirates.pcoh.uk/README) to find out more.
+Click [here](https://wearethepirates.pcoh.uk/readme) to find out more.
