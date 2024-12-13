@@ -2,11 +2,14 @@
 Book a ticket for our latest tour in 2024!
 
 ## Payment methods we accept
-![VISA Logo](https://github.com/user-attachments/assets/c8ff90eb-5b2f-41f5-b83e-f5271d0db60f)
+![image](https://github.com/user-attachments/assets/d04d5d56-d673-4fa7-a640-82e03d09aacc)
 
-![Mastercard Logo](https://github.com/user-attachments/assets/741af716-5520-4680-af21-9ab8a2d4f015)
+![image](https://github.com/user-attachments/assets/415fba9a-e78c-481a-abf5-141612111a0b)
 
-![PayPal Logo](https://github.com/user-attachments/assets/26954af1-c4be-4848-9539-a960804e6caa)
+![image](https://github.com/user-attachments/assets/727c3f66-f081-43e2-ac14-bf7805769abd)
+
+
+
 
 ## Let's book a ticket!
 This website is not functional and you're not able to book a ticket on this website.
