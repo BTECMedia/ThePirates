@@ -1,11 +1,13 @@
 # The Windows Refund Day Tour
 
 ## About this tour
-This tour will feature our latest song **Windows CE (Crap Edition)** and it will be performed with our singers:
+This tour will feature our latest song **Windows CE (Crap Edition)** and it will be performed by our singers:
 
 - Bill Gates
 - Steve Ballmer
 - Steve Jobs
+
+Including: Tim Cook (**Piano**)
 
 ## Book a ticket!
 **Tickets are selling out very, very quickly!**
