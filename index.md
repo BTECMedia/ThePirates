@@ -8,6 +8,9 @@ _"This website does not condone piracy!"_
 ## Songs!
 [Windows CE (Crap Edition)](https://wearethepirates.pcoh.uk/windowsce).
 
+## We're going on tour.
+Find out more about our latest tour [here](https://wearethepirates.pcoh.uk/tour).
+
 ## Follow our socials!
 [Noah's GitHub](https://github.com/TrisoPcoh). 
 
