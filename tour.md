@@ -10,4 +10,4 @@ This tour will feature our latest song **Windows CE (Crap Edition)** and it will
 ## Book a ticket!
 **Tickets are selling out very, very quickly!**
 
-Book your tickets today [here](https://wearethepirates.pcoh.uk/book).
+Book your tickets today by clicking [here](https://wearethepirates.pcoh.uk/book).
